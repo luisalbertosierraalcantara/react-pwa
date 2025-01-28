@@ -329,7 +329,10 @@ Or you can fork/clone it.
 Install dependencies:
 
 ```bash
-npm install # or yarn
+npm install -g pnpm@latest-10
+
+pnpm install
+
 ```
 
 In order to run it in development, run:
